@@ -1,0 +1,10 @@
+https://fyfhiiokkcblutyfwqzg.supabase.co/rest/v1/works?
+{
+    "name": "кр",
+    "author": "3",
+    "mark": "3",
+    "description": "Хорошо",
+    "teacher": "1",
+    "subject": "математика",
+    "body": "Ответы: (1 - б, 2 - г, 3 - б, 4 - г, 5 - б, 6 - г, )"
+}
