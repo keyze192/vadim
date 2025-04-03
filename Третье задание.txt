@@ -1,0 +1,6 @@
+3)https://fyfhiiokkcblutyfwqzg.supabase.co/rest/v1/student
+{
+"id": "5",
+"group": "ИС 23 9 1",
+"full_name": "Аюбов Гаджи"
+}
