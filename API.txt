@@ -1,0 +1,3 @@
+API: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImZ5ZmhpaW9ra2NibHV0eWZ3cXpnIiwicm9sZSI6ImFub24iLCJpYXQiOjE3MzI0NjYzMzIsImV4cCI6MjA0ODA0MjMzMn0.6S5hXgLWkOPLToNMk5a9teNlGjPz3MBqJB8X36oKI3E
+
+URL: https://fyfhiiokkcblutyfwqzg.supabase.co
